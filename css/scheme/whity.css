@@ -1,0 +1,47 @@
+#access {
+	clear: both;
+	display: block;
+}
+
+#access .menu {
+	display: block;
+	background: none;
+	border-top: none; 
+	border-bottom: none; 
+	background: #E9E9E9;
+	background-image: linear-gradient(bottom, #D1D1D1 0%, #E9E9E9 100%);
+	background-image: -o-linear-gradient(bottom, #D1D1D1 0%, #E9E9E9 100%);   
+	background-image: -moz-linear-gradient(bottom, #D1D1D1 0%, #E9E9E9 100%);   
+	background-image: -webkit-linear-gradient(bottom, #D1D1D1 0%, #E9E9E9 100%);   
+	background-image: -ms-linear-gradient(bottom, #D1D1D1 0%, #E9E9E9 100%);   
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #D1D1D1), color-stop(1, #E9E9E9) );
+}
+
+#access-left .menu {
+	display: block;
+	background: none;
+	border-top: none; 
+	border-bottom: none; 
+	padding: 0;
+	margin-left: 10%;
+	margin-right: 50%;
+	background: #E9E9E9;
+	background-image: linear-gradient(bottom, #D1D1D1 0%, #E9E9E9 100%);
+	background-image: -o-linear-gradient(bottom, #D1D1D1 0%, #E9E9E9 100%);   
+	background-image: -moz-linear-gradient(bottom, #D1D1D1 0%, #E9E9E9 100%);   
+	background-image: -webkit-linear-gradient(bottom, #D1D1D1 0%, #E9E9E9 100%);   
+	background-image: -ms-linear-gradient(bottom, #D1D1D1 0%, #E9E9E9 100%);   
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #D1D1D1), color-stop(1, #E9E9E9) );
+}
+
+.entry-meta .nuwhite-more {
+	background: #f2f2f2;
+}
+
+.entry-meta a.readmore {
+	color: #222;
+}
+
+.entry-meta a.readmore:hover {
+	text-decoration: underline;
+}

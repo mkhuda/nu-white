@@ -1,0 +1,119 @@
+#access {
+	clear: both;
+	display: block;
+}
+
+#access .menu {
+	display: block;
+	background: none;
+	border-top: none; 
+	border-bottom: none; 
+	background: #D39F43;
+	background-image: linear-gradient(bottom, #D39F43 0%, #F3C347 100%);
+	background-image: -o-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -moz-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -webkit-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -ms-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #D39F43), color-stop(1, #F3C347) );
+	padding: 0;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+
+#access-left .menu {
+	display: block;
+	background: none;
+	border-top: none; 
+	border-bottom: none; 
+	background: #D39F43;
+	background-image: linear-gradient(bottom, #D39F43 0%, #F3C347 100%);
+	background-image: -o-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -moz-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -webkit-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -ms-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #D39F43), color-stop(1, #F3C347) );
+	padding: 0;
+	margin-left: 10%;
+	margin-right: 50%;
+}
+
+.nuwhite-date .nuwhite-show-day {
+	background: #222;
+	height: 30px;
+	padding-top: 5px;
+	color: #f2f2f2;
+	font-size: 20px;
+	background: #D39F43;
+	background-image: linear-gradient(bottom, #D39F43 0%, #F3C347 100%);
+	background-image: -o-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -moz-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -webkit-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -ms-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #D39F43), color-stop(1, #F3C347) );
+	border-bottom: 5px solid #ddd;
+	border-radius: 10px 10px 0;
+	-moz-border-radius: 10px 10px 0;
+	-webkit-border-radius: 10px 10px 0;
+}
+
+#access-left .menu ul li a {
+	color: #f2f2f2;
+}
+
+#access .menu ul li a {
+	color: #f2f2f2;
+}
+.entry-title a {
+	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	-o-transition: all 0.4s ease;
+	-ms-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+}
+.entry-title a:hover {
+	color: #6ACCDF;
+}
+.entry-meta .nuwhite-more {
+	background: #f2f2f2;
+}
+.nav-previous, .nav-next {
+	background: #D39F43;
+	background-image: linear-gradient(bottom, #D39F43 0%, #F3C347 100%);
+	background-image: -o-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -moz-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -webkit-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -ms-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #D39F43), color-stop(1, #F3C347) );
+	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	-o-transition: all 0.4s ease;
+	-ms-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+}
+
+.entry-meta .nuwhite-more:hover {
+	background: #ddd;
+}
+
+.entry-meta .nuwhite-more a {
+	color: #222;
+}
+
+#content nav a {
+	color: #f2f2f2;
+}
+.site-credits {
+	color: #ddd;
+	background: #D39F43;
+	background-image: linear-gradient(bottom, #D39F43 0%, #F3C347 100%);
+	background-image: -o-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -moz-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -webkit-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -ms-linear-gradient(bottom, #D39F43 0%, #F3C347 100%);   
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #D39F43), color-stop(1, #F3C347) );
+}
+
+.site-credits a {
+	color: #f2f2f2;
+}
